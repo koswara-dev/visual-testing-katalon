@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginApp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6fd8cfe2-5875-4270-8838-a33719e02f3b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>69db4be8-0332-42d2-a263-d9981f459b56</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject('Page_ACME demo app/LoginPage')</defaultValue>
+      <description></description>
+      <id>69db4be8-0332-42d2-a263-d9981f459b56</id>
+      <masked>false</masked>
+      <name>LoginObject</name>
+   </variable>
+</TestCaseEntity>
